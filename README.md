@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-first basic repo at github
+This is the first trial github repo to play
